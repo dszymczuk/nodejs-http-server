@@ -11,5 +11,4 @@ This repository contains **Dockerfile** of [http-server](https://github.com/inde
 
 ### Usage
 
-    docker run -v <resource-dir>:/opt/www -p <port>:8080 
-  
+    docker run -v <resource-dir>:/opt/www -p <port>:8080 dszymczuk/nodejs-http-server
